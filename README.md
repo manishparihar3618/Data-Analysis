@@ -10,6 +10,8 @@ It serves as a personal knowledge base where I explore concepts, experiment with
 - Organize my learning journey in data analysis and visualization  
 - Practice working with real-world datasets  
 - Build a strong foundation using industry-standard tools  
+
+
 - Track progress and revisit concepts easily  
 
 ---
